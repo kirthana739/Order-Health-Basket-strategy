@@ -37,16 +37,6 @@ The repository includes a light **Sage and Terracotta** theme with a warm off-wh
 - **Apply it:** In Power BI Desktop, choose **Design → Import theme**, then select the JSON file.
 - Individual formatting applied directly to a visual can take precedence over theme defaults. Recolor those visuals manually if needed.
 
-## Python and Google Colab
-
-The notebooks use pandas to practise filtering, cleaning, transforming, grouping, aggregating, combining datasets, date and string operations, and statistical summaries. Seaborn and Matplotlib charts explore order health, sales channels, discounts, customer segments, regional targets, and product-category baskets.
-
-- [Pandas practice notebook](Pandas_Retail_Sales_Operations1.ipynb)
-- [Independent questions notebook](Own_Questions_Retail_Sales_Analysis.ipynb)
-- [Order Health and Basket Strategy — Colab HTML export](notebooks/Order_Health_and_Basket_Strategy.ipynb%20-%20Colab.html)
-
-The HTML file is a static export for viewing notebook code and outputs. Upload the `.ipynb` notebook as well if you want visitors to run it in Google Colab. When running a notebook, upload the required CSV files and keep their column names unchanged unless you also update the code.
-
 ## Seaborn and analysis charts
 
 The following charts are exported from the Order Health and Basket Strategy notebook:
