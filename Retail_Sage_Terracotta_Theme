@@ -1,0 +1,16 @@
+{
+  "name": "Retail Sage and Terracotta",
+  "dataColors": [
+    "#4F7C68",
+    "#D98763",
+    "#D9A441",
+    "#87A89B",
+    "#A67C8D",
+    "#718A78",
+    "#C8A477",
+    "#A6B9A6"
+  ],
+  "background": "#F5F6F2",
+  "foreground": "#303833",
+  "tableAccent": "#4F7C68"
+}
