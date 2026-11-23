@@ -25,7 +25,7 @@ The Order Health & Basket Strategy page includes KPI cards for total orders, can
 
 ### Power BI dashboard screenshot
 
-[Order Health and Basket Strategy — Colab HTML export](./Order_Health_and_Basket_Strategy.ipynb%20-%20Colab.html)
+![Power BI Dashboard](./Dashboard.png)
 
 The `.pbix` file is not currently listed in the repository. Add it if you want visitors to open and interact with the report in Power BI Desktop.
 
