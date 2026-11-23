@@ -25,7 +25,7 @@ The Order Health & Basket Strategy page includes KPI cards for total orders, can
 
 ### Power BI dashboard screenshot
 
-![Power BI Dashboard](./Dashboard.png)
+![Power BI Dashboard](./Dashboard.jpeg)
 
 The `.pbix` file is not currently listed in the repository. Add it if you want visitors to open and interact with the report in Power BI Desktop.
 
