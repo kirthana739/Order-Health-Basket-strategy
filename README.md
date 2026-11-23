@@ -52,26 +52,31 @@ The HTML file is a static export for viewing notebook code and outputs. Upload t
 The following charts are exported from the Order Health and Basket Strategy notebook:
 
 ### Order health and sales channels
+## Seaborn and analysis charts
 
-![Order status mix by sales channel](screenshots/image1.png)
+The following charts are exported from the Order Health and Basket Strategy notebook.
 
-![Monthly cancellation rate](screenshots/image2.png)
+### Order health and sales channels
 
-![Estimated cancelled-order value by region](screenshots/img3.png)
+![Order status mix by sales channel](./Order%20status%20mix%20by%20sales%20channel.png)
+
+![Monthly cancellation rate](./Monthly%20cancellation%20rate.png)
+
+![Estimated cancelled-order value by region](./Estimated%20cancelled-order%20value%20by%20region.png)
 
 ### Basket and product analysis
 
-![Average units per completed order by sales channel](screenshots/imag4.png)
+![Average units per completed order by sales channel](./Average%20units%20per%20completed%20order%20by%20sales%20channel.png)
 
-![Discounts and product gross margin](screenshots/imag5.png)
+![Discounts and product gross margin](./Discounts%20and%20product%20gross%20margin.png)
 
-![Product categories purchased together](screenshots/imag6.png)
+![Product categories purchased together](./Product%20categories%20purchased%20together.png)
 
 ### Sales and customer analysis
 
-![Monthly completed sales compared with regional targets](screenshots/imag7.png)
+![Monthly completed sales compared with regional targets](./Monthly%20completed%20sales%20compared%20with%20regional%20targets.png)
 
-![Completed sales by customer segment](screenshots/imag8.png)
+![Completed sales by customer segment](./Completed%20sales%20by%20customer%20segment.png)
 
 These charts describe patterns in the supplied dataset; they do not, by themselves, establish that one factor caused another. Category names should be standardized before interpreting category-level comparisons.
 
